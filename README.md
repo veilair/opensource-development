@@ -1,6 +1,6 @@
 # Opensource Development
 
-> Welcome to the GitHub OpenSource Projects. An ongoing list of great programmers and wonderful software projects you can support!
+> Welcome to the GitHub OpenSource Projects. An ongoing list of great programmers and wonderful software projects you can support. The [Cloud Native Trail Map](https://landscape.cncf.io/)  is CNCF's recommended path through the cloud native landscape. 
 
 ### Contents
 

@@ -307,7 +307,7 @@ _Hardware-related projects and makers._
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/veilair/opensource-development/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/veilair/opensource-development/graphs/contributors); you rock!
 
 
 ## License

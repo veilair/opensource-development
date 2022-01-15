@@ -8,7 +8,7 @@ Open source is source code that is made freely available for possible modificati
 ![open](https://github.com/veilair/opensource-development/blob/main/img/opensource.png)
 
 
-### Contents
+### Table of Contents
 
 - [Open Source Projects](#open-source-projects)
   - [Libraries](#libraries) 

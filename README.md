@@ -2,6 +2,10 @@
 
 > Welcome to the GitHub OpenSource Projects. An ongoing list of great programmers and wonderful software projects you can support. The [Cloud Native Trail Map](https://landscape.cncf.io/)  is CNCF's recommended path through the cloud native landscape. 
 
+## `What is Open Source?`
+Open source is source code that is made freely available for possible modification and redistribution. 
+
+
 ### Contents
 
 - [Open Source Projects](#open-source-projects)

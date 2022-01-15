@@ -5,7 +5,7 @@
 ## `What is Open Source?`
 Open source is source code that is made freely available for possible modification and redistribution. 
 
-![open](https://github.com/veilair/opensource-development/blob/main/img/Open-source.png)
+![open](https://github.com/veilair/opensource-development/blob/main/img/opensource.png)
 
 
 ### Contents
